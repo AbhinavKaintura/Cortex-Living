@@ -50,15 +50,3 @@ Cortex Living operates on a highly decoupled, multi-agent architecture:
 
 ---
 
-## 🚀 Quick Start (Local Development)
-
-### Prerequisites
-* Node.js (v18+)
-* Python (3.10+)
-* Docker & Docker Compose (for n8n, Redis, Qdrant)
-* API Keys (OpenAI, Twilio, Supabase, Vapi.ai)
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/your-org/cortex-living.git](https://github.com/your-org/cortex-living.git)
-cd cortex-living
